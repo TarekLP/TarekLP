@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Source 2, Unreal Engine, Blender and Trenchbroom**
 
-- 👨‍💻 Sneak peeks of my Projects are availible on my Bluesky [https://bsky.app/profile/tarekinnit.bsky.social](https://bsky.app/profile/tarekinnit.bsky.social)
+- 👨‍💻 Sneak peeks of my Projects are availible on my [Bluesky](https://bsky.app/profile/tarekinnit.bsky.social/)
 
 - 💬 Ask me about **anything Source / Source 2 related.**
 
