@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarek</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h3 align="center">A passionate developer / game designer / level designer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tareklp&label=Profile%20views&color=0e75b6&style=flat" alt="tareklp" /> </p>
 
