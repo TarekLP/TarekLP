@@ -5,11 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tareklp&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="tareklp" /> </p>
 
 <h2> Activites: </h2>
-- 🔭 I’m currently working on [Half Life Alyx Custom Maps](https://steamcommunity.com/id/TarekInnit/myworkshopfiles/)
+- 🔭 I’m currently working on Half-Life: Alyx Addons.
 
 - 🌱 I’m currently learning **Source 2, Unreal Engine, Blender and Trenchbroom**
 
 - 👨‍💻 Sneak peeks of my Projects are availible on my [Bluesky](https://bsky.app/profile/tarekinnit.bsky.social/)
+- 👨‍💻 Addon / Mod Downloads are on my Steam [Page](https://steamcommunity.com/id/TarekInnit/myworkshopfiles/)
 
 - 💬 Ask me about **anything Source / Source 2 related.**
 
