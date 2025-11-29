@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning / solidifying my skill in **Godot, Blender, GIMP**.
 
-- 👨‍💻 Sneak peeks of my Projects are availible on my [Bluesky](https://bsky.app/profile/tarekinnit.bsky.social/)!
+- 👨‍💻 Sneak peeks of my Projects are availible on my [Bluesky](https://bsky.app/profile/tarekinnit.from.software)!
 - 👨‍💻 Addon / Mod Downloads are on my Steam [Page](https://steamcommunity.com/id/TarekInnit/myworkshopfiles/) or on my [ModWorkshop](https://modworkshop.net/user/averageengineerenjoyer)!
 
 - 💬 Ask me about **anything Source / Source 2 related.**
