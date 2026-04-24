@@ -36,5 +36,5 @@
 - RTX Remix (Toolkit for letting old games use new Assets and Path-/Raytracing)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tareklp&show_icons=true&locale=en" alt="tareklp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tareklp&show_icons=true&locale=en&theme=dark" alt="tareklp" /></p>
 
