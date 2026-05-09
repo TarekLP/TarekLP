@@ -5,11 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tareklp&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="tareklp" /> </p>
 
 <h2> Activites: </h2>
-- 🔭 I’m currently working on my own Game!
-
+- 🔭 I’m currently working on Mods!
 - 🌱 I’m currently learning / solidifying my skill in **Godot, Blender, GIMP**.
 
-- 👨‍💻 Sneak peeks of my Projects are availible on my [Bluesky](https://bsky.app/profile/tarekinnit.from.software)!
+- 👨‍💻 Sneak peeks of my Projects are availible on my [Own Website]([https://bsky.app/profile/tarekinnit.from.software](https://greedman.vercel.app/#about))!
 - 👨‍💻 Addon / Mod Downloads are on my Steam [Page](https://steamcommunity.com/id/TarekInnit/myworkshopfiles/) or on my [ModWorkshop](https://modworkshop.net/user/averageengineerenjoyer)!
 
 - 💬 Ask me about **anything Source / Source 2 related.**
